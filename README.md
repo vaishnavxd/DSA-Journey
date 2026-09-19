@@ -49,10 +49,15 @@ I'll update these counts as I solve more problems.
 ## 📁 Structure
 
 dsa-journey/
+
 ├── README.md
+
 ├── basics/
+
 ├── array-patterns/
+
 ├── two-pointers/
+
 └── leetcode/
 
 Each topic contains the problems I practice along with my C++ solutions.
